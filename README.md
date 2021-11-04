@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![BussanQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=bussanq&show_icons=true&theme=radical)
 <!--
 **BussanQ/BussanQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
